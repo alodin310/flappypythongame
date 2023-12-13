@@ -1,7 +1,10 @@
 
 # Collaborator notes: Although this was a solo project, I discussed my project and received help from LMU computer science tutor. 
     # I mainly needed help for the physics section and for the layout of the project.
-# >>> NOTES FOR GRADER:
+# >>> NOTES FOR GRADER: I had two repositories that both got corrupted. I decided to make a third and final repository to submit my project 
+# my second repository also got corrupted. 
+# IMPORTANT NOTES: Because I am copy pasting my work into a brand new repo, I will have no pull/push and commit history. 
+# I've tried to remedy this by adding line by line comments below in my project to be super clear on my coding process and thoughts, in lieu of a corrupted commit history
 
 
 import pygame, math, random, time # Importing to use Randit, clock, sleep, misc. math functions  
